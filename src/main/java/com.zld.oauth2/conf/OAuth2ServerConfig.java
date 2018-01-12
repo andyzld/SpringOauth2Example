@@ -21,7 +21,7 @@ import org.springframework.security.oauth2.provider.token.store.redis.RedisToken
  */
 @Configuration
 public class OAuth2ServerConfig {
-//配置资源服务器和授权服务器
+//配置资源服务器和授权服务器 2
     private static final String DEMO_RESOURCE_ID = "order";
 
     @Configuration
